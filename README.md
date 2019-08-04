@@ -25,4 +25,4 @@ I have added extra monitor LEDs to my Super Filter so on my clock there is only 
 
 The DCF77 Sound on my clock has been modified to accentuate the difference between the incoming 0s and 1s. When the clock detects a 1 it just plays a slightly longer sound than 200mS. 
 
-![alt tag](https://raw.githubusercontent.com/brettoliver/DCF77-Analyzer-Clock-V2.0/master/master/DCF77_Animation_1000.gif)
+![alt tag](https://raw.githubusercontent.com/brettoliver/DCF77-Analyzer-Clock-V2.0/master/DCF77_Animation_1000.gif)
