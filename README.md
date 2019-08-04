@@ -23,6 +23,8 @@ I don't have a temperature or week number display on my clock and have modified 
 
 I have added extra monitor LEDs to my Super Filter so on my clock there is only an option for Synthesized and Non Synthesized output. This is not switchable.
 
-The DCF77 Sound on my clock has been modified to accentuate the difference between the incoming 0s and 1s. When the clock detects a 1 it just plays a slightly longer sound than 200mS. 
+The DCF77 Sound on my clock has been modified to accentuate the difference between the incoming 0s and 1s. When the clock detects a 1 it just plays a slightly longer sound than 200mS.
+
+See details here Web site: http://www.brettoliver.org.uk/DCF77_Analyzer_Clock_Mk2/Arduino_DCF77_Analyzer_MK2.htm
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/DCF77-Analyzer-Clock-V2.0/master/DCF77_Animation_1000.gif)
