@@ -1,4 +1,7 @@
- DCF77 Analyzer/Clock v2.0
+Brett Oliver's Hardware & Software Changes to Eric's Clock
+ 
+ ![alt tag](https://raw.githubusercontent.com/brettoliver/DCF77-Analyzer-Clock-V2.0/master/DCF77_Animation_1000.gif)
+ 
  Differences between Eric's Clock and my clock
 
 Although based on Eric's clock I have made a few changes to the hardware. Please mix and match whatever option suits your needs but make sure you change the code to suit.
@@ -27,4 +30,4 @@ The DCF77 Sound on my clock has been modified to accentuate the difference betwe
 
 See details here Web site: http://www.brettoliver.org.uk/DCF77_Analyzer_Clock_Mk2/Arduino_DCF77_Analyzer_MK2.htm
 
-![alt tag](https://raw.githubusercontent.com/brettoliver/DCF77-Analyzer-Clock-V2.0/master/DCF77_Animation_1000.gif)
+
